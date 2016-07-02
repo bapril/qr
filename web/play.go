@@ -45,7 +45,7 @@ import (
 	"time"
 
 	"github.com/rsc/rsc/appfs/fs"
-	"github.com/rsc/gf256"
+	"github.com/rsc/rsc/gf256"
 	"trident.li/qr"
 	"trident.li/qr/coding"
 	"trident.li/qr/web/resize"
