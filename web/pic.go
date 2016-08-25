@@ -12,7 +12,7 @@ import (
 	"strings"
 
 	"github.com/golang/freetype"
-	"github.com/rsc/rsc/appfs/fs"
+	"github.com/bapril/rsc/appfs/fs"
 	"trident.li/qr"
 	"trident.li/qr/coding"
 )
