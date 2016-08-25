@@ -44,8 +44,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/rsc/rsc/appfs/fs"
-	"github.com/rsc/rsc/gf256"
+	"github.com/bapril/rsc/appfs/fs"
+	"github.com/bapril/rsc/gf256"
 	"trident.li/qr"
 	"trident.li/qr/coding"
 	"trident.li/qr/web/resize"
